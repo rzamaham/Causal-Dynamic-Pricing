@@ -648,5 +648,4 @@ This is a personal learning and portfolio project. The roadmap is deliberately s
 
 As implementation progresses, update this README so that completed features, evaluation results, architecture, and deployment instructions always match the actual code.
 
-**Author:** `Your Name`  
 **Status:** Research and planning; implementation milestones to be updated as completed.
